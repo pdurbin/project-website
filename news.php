@@ -24,8 +24,42 @@
                     </p>
                 </div>
             </div>
-
+            
             <div class="newscollection">
+
+
+                <article class="newsitem">
+                    <a name="know-center-joins-okmaps-as-team-member" class="anchor"></a>
+
+                    <img style="width:100%;" src="https://openknowledgemaps.org/img/newsletter/knowcenter.jpg">
+                    <div class="newsitem-text">
+                        <time datetime="2017-02-20">20 February 2018</time>
+                        <h3 class="newsitem-headline">Know-Center joins the Open Knowledge Maps core team</h3>
+                        <p class="newsitem-p">
+                            We are happy to announce that <a href="https://know-center.at/" class="underline" target="_blank">Know-Center</a> has joined the <a href="https://openknowledgemaps.org/team#team/" class="underline" target="_blank">Open Knowledge Maps core team</a> as our very first organizational member. Know-Center will support Open Knowledge Maps with a considerable contribution allowing us to cover our operational costs and grow as an independent organization. This is the next step in what has been a longstanding partnership between the two organizations. Peter Kraker, founder and chairman of Open Knowledge Maps, laid the foundations for the organization whilst at Know-Center, and Know-Center has been a strong partner and advocate ever since.
+                            <br>
+                            <br>Stefanie Lindstaedt, CEO of Know-Center, says: 
+                                <blockquote>"At Know-Center, knowledge transfer is a key part of our mission. Open Knowledge Maps is a revolutionary tool in this regard, a window into science. Through this window, researchers, practitioners and citizens can explore the wealth of scientific knowledge in a much better way than before. We are excited to be a part of this unique open science endeavor."</blockquote>
+                        </p>
+                        <p class="newsitem-p">
+                        Peter Kraker, founder and chairman of Open Knowledge Maps, adds: 
+                                <blockquote>"We are thrilled to take our partnership with Know-Center to the next level. If recent market entrances are any indication, discovery will be one of the key areas of the digital research infrastructure. Having Know-Center on board goes a long way in making Open Knowledge Maps a sustainable building block of the open science ecosystem."</blockquote>
+                        </p>
+                        <p class="newsitem-p">
+                            In our joint effort to become ever more open, we have also agreed to switch the license of the open source knowledge mapping framework <a href="https://github.com/OpenKnowledgeMaps/Headstart" class="underline" target="_blank">Head Start</a> from LGPL to MIT.</p>
+                        </p>
+                        <a class="newsitem-button" href="https://know-center.at/" target="_blank">about Know-Center</a>
+                    </div>
+                </article>
+            </div>
+
+            <?php
+            $TIMELINE_ID = "842456314890584064";
+            $FEEBDACK_TITLE = "Twitter Stream";
+            include($COMPONENTS_PATH . 'twitterstream.php');
+            ?>
+            
+             <div class="newscollection">
 
 
                 <article class="newsitem">
@@ -41,7 +75,7 @@
                             <br>
                             <br>But did you know that you can easily keep yourself updated using Open Knowledge Maps? Just select the option “Most recent” in the “Refine your search” section. Our award-winning software then creates a knowledge map based on the 100 most recent documents for your search term. That way you get an instant overview of the hottest topics in your field.
                             <br>
-                            <br><a href="https://openknowledgemaps.org" target="_blank"><img src="http://openknowledgemaps.org/img/newsletter/mostrecent.png" alt="Screen shot of how to select the most recent publications"></a>
+                            <br><a href="https://openknowledgemaps.org" target="_blank"><img src="https://openknowledgemaps.org/img/newsletter/mostrecent.png" alt="Screen shot of how to select the most recent publications"></a>
                             <br>
                             <br>Let Open Knowledge Maps help you get a head start on your literature research in 2018.
                         </p>
@@ -71,12 +105,6 @@
                     </div>
                 </article>
             </div>
-
-            <?php
-            $TIMELINE_ID = "842456314890584064";
-            $FEEBDACK_TITLE = "Twitter Stream";
-            include($COMPONENTS_PATH . 'twitterstream.php');
-            ?>
 
                 <div class="newscollection">
 
@@ -124,7 +152,7 @@
 
 
                     <article class="newsitem">
-                        <!-- CHANGE BG IMAGE HERE-->  
+						<a name="openminds-award" class="anchor"></a>
 
                         <a href="https://www.openminds.at/" 
                            target="_blank"><img style="width:100%;" src="https://openknowledgemaps.org/img/newsletter/openmindsaward.png"></a>
