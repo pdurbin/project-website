@@ -33,7 +33,7 @@
                     <img style="width:100%;" src="https://openknowledgemaps.org/img/newsletter/openairetender.png">
                     <div class="newsitem-text">
                         <time datetime="2017-03-20">20 March 2018</time>
-                        <h3 class="newsitem-headline"> Open Knowledge Maps wins OpenAIRE tender to create a tool that lets you visualize any research project</h3>
+                        <h3 class="newsitem-headline">Open Knowledge Maps wins OpenAIRE tender to create a tool that lets you visualize any research project</h3>
                         <p class="newsitem-p">
                             What do snakes and the visualization of research projects have in common? The answer is: <strong>VIPER</strong>. VIPER stands for <strong>VI</strong>sual <strong>P</strong>roject <strong>E</strong>xplore<strong>R</strong>, a unique open science application that focuses on the discovery of research project results. VIPER will enable you to systematically explore a project's output and to understand its impact in different areas.
                         </p>
@@ -57,6 +57,54 @@
             $FEEBDACK_TITLE = "Twitter Stream";
             include($COMPONENTS_PATH . 'twitterstream.php');
             ?>
+
+            <div class="newscollection">
+
+                <article class="newsitem">
+
+                    <img style="width:100%;" src="https://openknowledgemaps.org/img/newsletter/feedback2.png">
+                    <div class="newsitem-text">
+                        <time datetime="2017-03-20">20 March 2018</time>
+                        <h3 class="newsitem-headline">We ❤ user feedback!</h3>
+                        <p class="newsitem-p">
+                            We constantly receive useful input from you, which we incorporate in our development.
+                            Here are a few examples of changes that the Open Knowledge Maps team designed and implemented over the past few weeks based on your feedback.
+                        </p>
+                        <p class="newsitem-p">
+                            <b>
+                                #1 Datepicker
+                            </b><br>
+                            The datepicker in the search box was not very useful. We've improved its behaviour and appearance and made the year selectable from a dropdown.</p>
+                        <p style="margin-bottom:20px;"><img class="shadow" src="http://openknowledgemaps.org/img/newsletter/datepicker.jpg" alt="Screen shot of how to select the most recent publications">
+                        </p>
+                        <p class="newsitem-p">
+                            <b>
+                                #2 Zoom in &amp; Zoom out
+                            </b><br>
+                            It was not always clear where you need to click in order to zoom in or zoom out. We have introduced new mouse cursors to clearly signal this behaviour.
+                            <p style="margin-bottom:20px;"><img class="shadow" src="http://openknowledgemaps.org/img/newsletter/zoominout.png" alt="Screen shot of how to select the most recent publications">
+            
+                        </p>
+                        <p class="newsitem-p">
+                            <b>
+                                #3 Copy area title
+                            </b><br>
+                            It was not possible to copy and paste the bubble title when zoomed into a bubble.
+                            Now you can!
+                        </p>
+                        <p style="margin-bottom:20px;"><img class="shadow" src="http://openknowledgemaps.org/img/newsletter/copy-title.jpg" alt="Screenshot of how to zoom in and out of a bubble">
+                        </p>
+                            
+                        <p class="newsitem-p">
+                            So, please keep the feedback coming. Together, we can change the way we discover research!
+                        </p>
+                        <a class="newsitem-button" href="https://openknowledgemaps.org/getintouch" target="_blank">
+                            How to get in touch</a>
+
+                    </div>
+                </article>
+            </div>
+
             <div class="newscollection">
 
                 <article class="newsitem">
