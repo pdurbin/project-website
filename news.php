@@ -28,6 +28,54 @@
             <div class="newscollection">
 
                 <article class="newsitem">
+                    <a name="welcome-enthusiasts" class="anchor"></a>
+
+                    <img style="width:100%;" src="https://openknowledgemaps.org/img/newsletter/ep-announcement.png">
+                    <div class="newsitem-text">
+                        <time datetime="2017-04-17">17 April 2018</time>
+                        <h3 class="newsitem-headline">A warm welcome to our enthusiasts</h3>
+                        <p class="newsitem-p">
+                            Today, we are taking a big step towards participatory development. 
+                            We are launching our community outreach program, the <b>Open Knowledge Maps Enthusiasts</b>!
+                        </p>
+                        <p class="newsitem-p">
+                            The Enthusiasts are power users and ambassadors from all over the world, who spread the word 
+                            in their communities, report feedback, and provide input on various aspects of Open Knowledge Maps. 
+                            Open Knowledge Maps is fueled by user feedback, and we have established this program to highlight 
+                            the importance of our community and their critical role in shaping OKMaps.
+                        </p>
+                        <p class="newsitem-p">
+                            So please welcome with us <b>Amie Fairs</b>, <b>Benedikt Fecher</b>, <b>Girija Goyal</b>, 
+                            <b>Ricardo Hartley Belmar</b>, <b>Jeremiah Pietersen</b>, and <b>Mari Plaza</b>! 
+                            These <a href="https://openknowledgemaps.org/community#current-enthusiasts" class="underline" target="_blank">
+                                     six outstanding proponents of open discovery</a> will 
+                            not only run workshops and a variety of other activities on four different continents - 
+                            they will also help us shaping the Enthusiasts program.
+                        </p>
+                        <p class="newsitem-p">
+                            We would like to thank <a href="https://science.mozilla.org/blog/mingrants2ndcohort/" class="underline" target="_blank">
+                            Mozilla and the Sloan Foundation</a> for providing financial support for 
+                            establishing the Enthusiasts program. For more info on the program and to learn how you can 
+                            become an Enthusiast yourself, check out <a href="https://openknowledgemaps.org/community" class="underline" target="_blank">our brand new community page</a>.
+                        </p>
+                        <p class="newsitem-p">
+                            Together we can change the way we discover research!
+                        </p>
+                        <a class="newsitem-button" href="https://openknowledgemaps.org/community" target="_blank">
+                            Our Community</a>
+                    </div>
+                </article>
+            </div>
+
+            <?php
+            $TIMELINE_ID = "842456314890584064";
+            $FEEBDACK_TITLE = "Twitter Stream";
+            include($COMPONENTS_PATH . 'twitterstream.php');
+            ?>
+            
+            <div class="newscollection">
+
+                <article class="newsitem">
                     <a name="okmaps-openaire" class="anchor"></a>
 
                     <img style="width:100%;" src="https://openknowledgemaps.org/img/newsletter/openairetender.png">
@@ -52,12 +100,6 @@
                 </article>
             </div>
 
-            <?php
-            $TIMELINE_ID = "842456314890584064";
-            $FEEBDACK_TITLE = "Twitter Stream";
-            include($COMPONENTS_PATH . 'twitterstream.php');
-            ?>
-
             <div class="newscollection">
 
                 <article class="newsitem">
@@ -75,14 +117,14 @@
                                 #1 Datepicker
                             </b><br>
                             The datepicker in the search box was not very useful. We've improved its behaviour and appearance and made the year selectable from a dropdown.</p>
-                        <p style="margin-bottom:20px;"><img class="shadow" src="http://openknowledgemaps.org/img/newsletter/datepicker.jpg" alt="Screen shot of how to select the most recent publications">
+                        <p style="margin-bottom:20px;"><img class="shadow" src="https://openknowledgemaps.org/img/newsletter/datepicker.jpg" alt="Screen shot of how to select the most recent publications">
                         </p>
                         <p class="newsitem-p">
                             <b>
                                 #2 Zoom in &amp; Zoom out
                             </b><br>
                             It was not always clear where you need to click in order to zoom in or zoom out. We have introduced new mouse cursors to clearly signal this behaviour.
-                            <p style="margin-bottom:20px;"><img class="shadow" src="http://openknowledgemaps.org/img/newsletter/zoominout.png" alt="Screen shot of how to select the most recent publications">
+                            <p style="margin-bottom:20px;"><img class="shadow" src="https://openknowledgemaps.org/img/newsletter/zoominout.png" alt="Screen shot of how to select the most recent publications">
             
                         </p>
                         <p class="newsitem-p">
@@ -92,7 +134,7 @@
                             It was not possible to copy and paste the bubble title when zoomed into a bubble.
                             Now you can!
                         </p>
-                        <p style="margin-bottom:20px;"><img class="shadow" src="http://openknowledgemaps.org/img/newsletter/copy-title.jpg" alt="Screenshot of how to zoom in and out of a bubble">
+                        <p style="margin-bottom:20px;"><img class="shadow" src="https://openknowledgemaps.org/img/newsletter/copy-title.jpg" alt="Screenshot of how to zoom in and out of a bubble">
                         </p>
                             
                         <p class="newsitem-p">
