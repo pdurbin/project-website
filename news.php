@@ -116,14 +116,14 @@
                                 #1 Datepicker
                             </b><br>
                             The datepicker in the search box was not very useful. We've improved its behaviour and appearance and made the year selectable from a dropdown.</p>
-                        <p style="margin-bottom:20px;"><img class="shadow" src="http://openknowledgemaps.org/img/newsletter/datepicker.jpg" alt="Screen shot of how to select the most recent publications">
+                        <p style="margin-bottom:20px;"><img class="shadow" src="https://openknowledgemaps.org/img/newsletter/datepicker.jpg" alt="Screen shot of how to select the most recent publications">
                         </p>
                         <p class="newsitem-p">
                             <b>
                                 #2 Zoom in &amp; Zoom out
                             </b><br>
                             It was not always clear where you need to click in order to zoom in or zoom out. We have introduced new mouse cursors to clearly signal this behaviour.
-                            <p style="margin-bottom:20px;"><img class="shadow" src="http://openknowledgemaps.org/img/newsletter/zoominout.png" alt="Screen shot of how to select the most recent publications">
+                            <p style="margin-bottom:20px;"><img class="shadow" src="https://openknowledgemaps.org/img/newsletter/zoominout.png" alt="Screen shot of how to select the most recent publications">
             
                         </p>
                         <p class="newsitem-p">
@@ -133,7 +133,7 @@
                             It was not possible to copy and paste the bubble title when zoomed into a bubble.
                             Now you can!
                         </p>
-                        <p style="margin-bottom:20px;"><img class="shadow" src="http://openknowledgemaps.org/img/newsletter/copy-title.jpg" alt="Screenshot of how to zoom in and out of a bubble">
+                        <p style="margin-bottom:20px;"><img class="shadow" src="https://openknowledgemaps.org/img/newsletter/copy-title.jpg" alt="Screenshot of how to zoom in and out of a bubble">
                         </p>
                             
                         <p class="newsitem-p">
