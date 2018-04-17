@@ -30,7 +30,7 @@
                 <article class="newsitem">
                     <a name="okmaps-openaire" class="anchor"></a>
 
-                    <img style="width:100%;" src="https://openknowledgemaps.org/img/newsletter/openairetender.png">
+                    <img style="width:100%;" src="https://openknowledgemaps.org/img/newsletter/ep-announcement.png">
                     <div class="newsitem-text">
                         <time datetime="2017-04-10">10 April 2018</time>
                         <h3 class="newsitem-headline">A warm welcome to our enthusiasts</h3>
