@@ -32,6 +32,53 @@
 
                     <img style="width:100%;" src="https://openknowledgemaps.org/img/newsletter/openairetender.png">
                     <div class="newsitem-text">
+                        <time datetime="2017-04-10">10 April 2018</time>
+                        <h3 class="newsitem-headline">A warm welcome to our enthusiasts</h3>
+                        <p class="newsitem-p">
+                            Today, we are taking a big step towards participatory development. 
+                            We are launching our community outreach program, the <b>Open Knowledge Maps Enthusiasts</b>!
+                        </p>
+                        <p class="newsitem-p">
+                            The Enthusiasts are power users and ambassadors from all over the world, who spread the word 
+                            in their communities, report feedback, and provide input on various aspects of Open Knowledge Maps. 
+                            Open Knowledge Maps is fueled by user feedback, and we have established this program to highlight 
+                            the importance of our community and their critical role in shaping OKMaps.
+                        </p>
+                        <p class="newsitem-p">
+                            So please welcome with us <b>Amie Fairs</b>, <b>Benedikt Fecher</b>, <b>Girija Goyal</b>, 
+                            <b>Ricardo Hartley Belmar</b>, <b>Jeremiah Pietersen</b>, and <b>Mari Plaza</b>! 
+                            These six outstanding proponents of open discovery will 
+                            not only run workshops and a variety of other activities on four different continents - 
+                            they will also help us shaping the Enthusiasts program.
+                        </p>
+                        <p class="newsitem-p">
+                            We would like to thank <a href="https://science.mozilla.org/blog/mingrants2ndcohort/" class="underline" target="_blank">
+                            Mozilla and the Sloan Foundation</a> for providing financial support for 
+                            establishing the Enthusiasts program. For more info on the program and to learn how you can 
+                            become an Enthusiast yourself, check out <a href="https://openknowledgemaps.org/community" class="underline" target="_blank">our brand new community page</a>.
+                        </p>
+                        <p class="newsitem-p">
+                            Together we can change the way we discover research!
+                        </p>
+                        <a class="newsitem-button" href="https://openknowledgemaps.org/community" target="_blank">
+                            Our Community</a>
+                    </div>
+                </article>
+            </div>
+
+            <?php
+            $TIMELINE_ID = "842456314890584064";
+            $FEEBDACK_TITLE = "Twitter Stream";
+            include($COMPONENTS_PATH . 'twitterstream.php');
+            ?>
+            
+            <div class="newscollection">
+
+                <article class="newsitem">
+                    <a name="okmaps-openaire" class="anchor"></a>
+
+                    <img style="width:100%;" src="https://openknowledgemaps.org/img/newsletter/openairetender.png">
+                    <div class="newsitem-text">
                         <time datetime="2017-03-20">20 March 2018</time>
                         <h3 class="newsitem-headline">Open Knowledge Maps wins OpenAIRE tender to create a tool that lets you visualize any research project</h3>
                         <p class="newsitem-p">
@@ -51,12 +98,6 @@
                     </div>
                 </article>
             </div>
-
-            <?php
-            $TIMELINE_ID = "842456314890584064";
-            $FEEBDACK_TITLE = "Twitter Stream";
-            include($COMPONENTS_PATH . 'twitterstream.php');
-            ?>
 
             <div class="newscollection">
 
