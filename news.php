@@ -32,7 +32,7 @@
 
                     <img style="width:100%;" src="https://openknowledgemaps.org/img/newsletter/ep-announcement.png">
                     <div class="newsitem-text">
-                        <time datetime="2017-04-10">10 April 2018</time>
+                        <time datetime="2017-04-17">17 April 2018</time>
                         <h3 class="newsitem-headline">A warm welcome to our enthusiasts</h3>
                         <p class="newsitem-p">
                             Today, we are taking a big step towards participatory development. 
