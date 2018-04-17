@@ -28,7 +28,7 @@
             <div class="newscollection">
 
                 <article class="newsitem">
-                    <a name="okmaps-openaire" class="anchor"></a>
+                    <a name="welcome-enthusiasts" class="anchor"></a>
 
                     <img style="width:100%;" src="https://openknowledgemaps.org/img/newsletter/ep-announcement.png">
                     <div class="newsitem-text">
@@ -47,7 +47,8 @@
                         <p class="newsitem-p">
                             So please welcome with us <b>Amie Fairs</b>, <b>Benedikt Fecher</b>, <b>Girija Goyal</b>, 
                             <b>Ricardo Hartley Belmar</b>, <b>Jeremiah Pietersen</b>, and <b>Mari Plaza</b>! 
-                            These six outstanding proponents of open discovery will 
+                            These <a href="https://openknowledgemaps.org/community#current-enthusiasts" class="underline" target="_blank">
+                                     six outstanding proponents of open discovery</a> will 
                             not only run workshops and a variety of other activities on four different continents - 
                             they will also help us shaping the Enthusiasts program.
                         </p>
