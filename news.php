@@ -30,7 +30,9 @@
                 <article class="newsitem">
                     <a name="viper-launch" class="anchor"></a>
 
-                    <img style="width:100%;" src="https://openknowledgemaps.org/img/newsletter/viperhere.png">
+                    <a href="https://openknowledgemaps.org/viper/" target="_blank">
+                        <img style="width:100%;" src="https://openknowledgemaps.org/img/newsletter/viperhere.png">
+                    </a> 
                     <div class="newsitem-text">
                         <time datetime="2017-05-16">16 April 2018</time>
                         <h3 class="newsitem-headline">The Visual Project Explorer (VIPER) is here</h3>
@@ -39,7 +41,7 @@
                             But getting an overview of a research project can be tedious: you are often faced with outdated project websites and dozens of lengthy reports. 
                         </p>
                         <p class="newsitem-p">
-                            VIPER is here to change that - it is your guide to the world of research projects! Powered by <a href="https://openaire.eu" target="_blank">the OpenAIRE infrastructure</a>, VIPER enables you to get automatically created overviews of project outputs and understand their reception in different areas. You can even use VIPER as an automated dissemination page for your own projects.
+                            VIPER is here to change that - it is your guide to the world of research projects! Powered by <a href="https://openaire.eu" target="_blank" class="underline">the OpenAIRE infrastructure</a>, VIPER enables you to get automatically created overviews of project outputs and understand their reception in different areas. You can even use VIPER as an automated dissemination page for your own projects.
                         </p>
                         <a class="newsitem-button" href="https://openknowledgemaps.org/viper/" target="_blank">
                             Try it out now!</a>
