@@ -76,6 +76,41 @@
             $FEEBDACK_TITLE = "Twitter Stream";
             include($COMPONENTS_PATH . 'twitterstream.php');
             ?>
+            
+            <div class="newscollection">
+
+                <article class="newsitem">
+                    <a name="viper-launch" class="anchor"></a>
+
+                    <a href="https://openknowledgemaps.org/team#partners" target="_blank">
+                        <img style="width:100%;" src="https://openknowledgemaps.org/img/newsletter/partners-072018.png">
+                    </a> 
+                    <div class="newsitem-text">
+
+                        <time datetime="2018-07-12">12 July 2018</time>
+
+                        <h3 class="newsitem-headline">Our network is growing</h3>
+
+                        <p class="newsitem-p">
+                            The Open Knowledge Maps network is expanding - we now have 16 collaboration partners!
+                        </p>
+                       
+
+                        <p class="newsitem-p">
+                            Our latest partnerships include <a class="underline" href="https://wikimedia.de/" target="_blank">Wikimedia Germany</a> and their outstanding <a class="underline" href="https://en.wikiversity.org/wiki/Wikimedia_Deutschland/Open_Science_Fellows_Program" target="_blank">Open Science Fellows Program</a> as well as the awesome <a class="underline" href="https://opensciencemooc.eu/" target="_blank">Open Science MOOC</a>. 
+                            With both partners, we are working on trainings for open discovery and open science to enable more people to create and benefit from open scientific knowledge.  
+                        </p>
+
+                        <p class="newsitem-p">
+                            We have also partnered with longtime supporters <a class="underline" href="https://impactstory.org/" target="_blank">ImpactStory</a> on their exciting new search engine <a class="underline" href="http://gettheresearch.org/" target="_blank">Get The Research</a>, aimed at enabling everyone in society to benefit from scientific knowledge. In addition, we have joined JROST, the <a class="underline" href="http://jrost.org/" target="_blank">Joint Roadmap for Open Science Tools</a> to design an open science toolchain for researchers. 
+                            With both initiatives we’re working on better and better integrated tools for open discovery and open science in general.
+                        </p>
+                       
+                        <a class="newsitem-button" href="https://openknowledgemaps.org/team#partners" target="_blank">
+                            Check out our network</a>
+                    </div>
+                </article>
+            </div>
 
             <div class="newscollection">
 
@@ -86,7 +121,7 @@
                         <img style="width:100%;" src="https://openknowledgemaps.org/img/newsletter/viperhere.png">
                     </a> 
                     <div class="newsitem-text">
-                        <time datetime="2018-04-16">16 April 2018</time>
+                        <time datetime="2018-05-16">16 May 2018</time>
                         <h3 class="newsitem-headline">The Visual Project Explorer (VIPER) is here</h3>
                         <p class="newsitem-p">
                             Much of modern research is done in projects. 
