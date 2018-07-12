@@ -30,11 +30,63 @@
                 <article class="newsitem">
                     <a name="viper-launch" class="anchor"></a>
 
+                    <a href="https://openknowledgemaps.org/" target="_blank">
+                        <img style="width:100%;" src="https://openknowledgemaps.org/img/newsletter/embed-all-maps.jpg">
+                    </a> 
+                    <div class="newsitem-text">
+
+                        <time datetime="2018-07-12">12 July 2018</time>
+
+                        <h3 class="newsitem-headline">By popular request: 2 new features!</h3>
+
+                        <h4 class="newsitem-p" style="font-weight: 600; color: #2c3e52;">Feature 1: Embed any map in 3 easy steps!</h4>
+
+                        <p class="newsitem-p">
+                            Have you ever wanted to share a map with the readers of your blog? Reuse an OKMaps overview on your course website? Provide a collection of your favourite maps for your lab?
+                            Here’s the the good news: Now you can!
+                        </p>
+                        <ul class="newsitem-p">
+                            <li><strong>Step 1:</strong> Click on the embed button next to a map.</li>
+                            <li><strong>Step 2:</strong> Copy the code snippet.</li>
+                            <li><strong>Step 3:</strong> And finally include it on your website. That’s it!</li>
+
+                        </ul>
+
+                        <p class="newsitem-p">
+                            That way you can enable your colleagues and friends to get new insights into scientific knowledge!    
+                        </p>
+
+                        <h4 class="newsitem-p" style="font-weight: 600; color: #2c3e52;">Feature 2: Show only open access papers!</h4>
+
+                        <p class="newsitem-p">
+                            In addition, we have implemented another much requested feature: Showing only open access papers within a map. This means, you can easily find out, which papers you can read and download on Open Knowledge Maps - and get started on your research even faster!
+                        </p>
+                        <p class="newsitem-p">
+                            As always, please share the good news with your network - and let us know of any feedback, bugs or ideas for improvement!
+                        </p>
+
+                        <a class="newsitem-button" href="https://openknowledgemaps.org/" target="_blank">
+                            Search and embed now</a>
+                    </div>
+                </article>
+            </div>
+
+            <?php
+            $TIMELINE_ID = "842456314890584064";
+            $FEEBDACK_TITLE = "Twitter Stream";
+            include($COMPONENTS_PATH . 'twitterstream.php');
+            ?>
+
+            <div class="newscollection">
+
+                <article class="newsitem">
+                    <a name="viper-launch" class="anchor"></a>
+
                     <a href="https://openknowledgemaps.org/viper/" target="_blank">
                         <img style="width:100%;" src="https://openknowledgemaps.org/img/newsletter/viperhere.png">
                     </a> 
                     <div class="newsitem-text">
-                        <time datetime="2017-05-16">16 April 2018</time>
+                        <time datetime="2018-04-16">16 April 2018</time>
                         <h3 class="newsitem-headline">The Visual Project Explorer (VIPER) is here</h3>
                         <p class="newsitem-p">
                             Much of modern research is done in projects. 
@@ -49,12 +101,6 @@
                 </article>
             </div>
 
-            <?php
-            $TIMELINE_ID = "842456314890584064";
-            $FEEBDACK_TITLE = "Twitter Stream";
-            include($COMPONENTS_PATH . 'twitterstream.php');
-            ?>
-            
             <div class="newscollection">
 
                 <article class="newsitem">
@@ -62,7 +108,7 @@
 
                     <img style="width:100%;" src="https://openknowledgemaps.org/img/newsletter/ep-announcement.png">
                     <div class="newsitem-text">
-                        <time datetime="2017-04-17">17 April 2018</time>
+                        <time datetime="2018-04-17">17 April 2018</time>
                         <h3 class="newsitem-headline">A warm welcome to our enthusiasts</h3>
                         <p class="newsitem-p">
                             Today, we are taking a big step towards participatory development. 
@@ -78,13 +124,13 @@
                             So please welcome with us <b>Amie Fairs</b>, <b>Benedikt Fecher</b>, <b>Girija Goyal</b>, 
                             <b>Ricardo Hartley Belmar</b>, <b>Jeremiah Pietersen</b>, and <b>Mari Plaza</b>! 
                             These <a href="https://openknowledgemaps.org/community#current-enthusiasts" class="underline" target="_blank">
-                                     six outstanding proponents of open discovery</a> will 
+                                six outstanding proponents of open discovery</a> will 
                             not only run workshops and a variety of other activities on four different continents - 
                             they will also help us shaping the Enthusiasts program.
                         </p>
                         <p class="newsitem-p">
                             We would like to thank <a href="https://science.mozilla.org/blog/mingrants2ndcohort/" class="underline" target="_blank">
-                            Mozilla and the Sloan Foundation</a> for providing financial support for 
+                                Mozilla and the Sloan Foundation</a> for providing financial support for 
                             establishing the Enthusiasts program. For more info on the program and to learn how you can 
                             become an Enthusiast yourself, check out <a href="https://openknowledgemaps.org/community" class="underline" target="_blank">our brand new community page</a>.
                         </p>
@@ -96,7 +142,7 @@
                     </div>
                 </article>
             </div>
-            
+
             <div class="newscollection">
 
                 <article class="newsitem">
@@ -104,7 +150,7 @@
 
                     <img style="width:100%;" src="https://openknowledgemaps.org/img/newsletter/openairetender.png">
                     <div class="newsitem-text">
-                        <time datetime="2017-03-20">20 March 2018</time>
+                        <time datetime="2018-03-20">20 March 2018</time>
                         <h3 class="newsitem-headline">Open Knowledge Maps wins OpenAIRE tender to create a tool that lets you visualize any research project</h3>
                         <p class="newsitem-p">
                             What do snakes and the visualization of research projects have in common? The answer is: <strong>VIPER</strong>. VIPER stands for <strong>VI</strong>sual <strong>P</strong>roject <strong>E</strong>xplore<strong>R</strong>, a unique open science application that focuses on the discovery of research project results. VIPER will enable you to systematically explore a project's output and to understand its impact in different areas.
@@ -130,7 +176,7 @@
 
                     <img style="width:100%;" src="https://openknowledgemaps.org/img/newsletter/feedback2.png">
                     <div class="newsitem-text">
-                        <time datetime="2017-03-20">20 March 2018</time>
+                        <time datetime="2018-03-20">20 March 2018</time>
                         <h3 class="newsitem-headline">We ❤ user feedback!</h3>
                         <p class="newsitem-p">
                             We constantly receive useful input from you, which we incorporate in our development.
@@ -148,8 +194,8 @@
                                 #2 Zoom in &amp; Zoom out
                             </b><br>
                             It was not always clear where you need to click in order to zoom in or zoom out. We have introduced new mouse cursors to clearly signal this behaviour.
-                            <p style="margin-bottom:20px;"><img class="shadow" src="https://openknowledgemaps.org/img/newsletter/zoominout.png" alt="Screen shot of how to select the most recent publications">
-            
+                        <p style="margin-bottom:20px;"><img class="shadow" src="https://openknowledgemaps.org/img/newsletter/zoominout.png" alt="Screen shot of how to select the most recent publications">
+
                         </p>
                         <p class="newsitem-p">
                             <b>
@@ -160,7 +206,7 @@
                         </p>
                         <p style="margin-bottom:20px;"><img class="shadow" src="https://openknowledgemaps.org/img/newsletter/copy-title.jpg" alt="Screenshot of how to zoom in and out of a bubble">
                         </p>
-                            
+
                         <p class="newsitem-p">
                             So, please keep the feedback coming. Together, we can change the way we discover research!
                         </p>
@@ -178,7 +224,7 @@
 
                     <img style="width:100%;" src="https://openknowledgemaps.org/img/newsletter/knowcenter.jpg">
                     <div class="newsitem-text">
-                        <time datetime="2017-02-20">20 February 2018</time>
+                        <time datetime="2018-02-20">20 February 2018</time>
                         <h3 class="newsitem-headline">Know-Center joins the Open Knowledge Maps core team</h3>
                         <p class="newsitem-p">
                             We are happy to announce that <a href="https://know-center.at/" class="underline" target="_blank">Know-Center</a> has joined the <a href="https://openknowledgemaps.org/team#team/" class="underline" target="_blank">Open Knowledge Maps core team</a> as our very first organizational member. Know-Center will support Open Knowledge Maps with a considerable contribution allowing us to cover our operational costs and grow as an independent organization. This is the next step in what has been a longstanding partnership between the two organizations. Peter Kraker, founder and chairman of Open Knowledge Maps, laid the foundations for the organization whilst at Know-Center, and Know-Center has been a strong partner and advocate ever since.
@@ -208,7 +254,7 @@
                     <a href="https://www.openknowledgemaps.org/" 
                        target="_blank"><img style="width:100%;" src="https://openknowledgemaps.org/img/newsletter/happynewyear.png"></a>
                     <div class="newsitem-text">
-                        <time datetime="2017-01-09">9 January 2018</time>
+                        <time datetime="2018-01-09">9 January 2018</time>
                         <h3 class="newsitem-headline">How to stay up-to-date in your research field</h3>
                         <p class="newsitem-p">
                             2.5 million new research papers are published each year. That makes staying up-to-date a hard task - and it keeps you from doing actual research.
@@ -230,7 +276,7 @@
                 <article class="newsitem">
                     <!-- CHANGE BG IMAGE HERE-->
                     <div class="newsitem-text">
-                        <time datetime="2017-01-09">9 January 2018</time>
+                        <time datetime="2018-01-09">9 January 2018</time>
                         <h3 class="newsitem-headline">Open Knowledge Maps joins two important open science networks</h3>
                         <p class="newsitem-p">
                             We're proud to announce that we have become a member of the Leibniz Research Alliance Science 2.0 and the Open Access Network Austria!
