@@ -41,11 +41,16 @@
 
 
                         <p class="newsitem-p">
-                            It's <a class="underline" target="_blank" href="https://openknowledgemaps.us13.list-manage.com/track/click?u=c399f89442d6aa733a9896515&id=0e9e0f7c51&e=c36bb1d8a7">Open Access Week (#OAWeek)</a> again! What better way to celebrate than to enable your 
+                            It's <a class="underline" target="_blank" href="https://openaccessweek.org">Open Access Week (#OAWeek)</a> again! What better way to celebrate than to enable your 
                             community to discover all the great open access content out there. To help you with this, 
                             we have created training materials for Open Knowledge Maps.
                         </p>
-
+                        
+                        <p class="newsitem-p">
+                            This includes presentations with extensive speaker notes, making it easy to introduce Open Knowledge Maps in 
+                            English and Spanish. We have also put all materials for the Scientific Scavenger Hunt, our workshop concept, online. 
+                            A step-by-step guide explains, how to play this fun and fast-paced game with your community. 
+                        </p>
 
                         <p class="newsitem-p">
                             Have fun - and share your Scavenger Hunt moments via the hashtag <b>#okmaps</b> with us!
