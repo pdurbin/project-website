@@ -28,14 +28,14 @@
             <div class="newscollection">
 
                 <article class="newsitem">
-                    <a name="viper-launch" class="anchor"></a>
+                    <a name="oaweek-2018" class="anchor"></a>
 
                     <a href="https://openknowledgemaps.org/community#training-materials" target="_blank">
                         <img style="width:100%;" src="https://openknowledgemaps.org/img/newsletter/community-oaweek.jpg">
                     </a> 
                     <div class="newsitem-text">
 
-                        <time datetime="2018-07-12">23 October 2018</time>
+                        <time datetime="2018-10-23">23 October 2018</time>
 
                         <h3 class="newsitem-headline">This #OAWeek, enable your community to discover open access content</h3>
 
@@ -65,14 +65,14 @@
             <div class="newscollection">
 
                 <article class="newsitem">
-                    <a name="viper-launch" class="anchor"></a>
+                    <a name="successful-enthusiasts-program" class="anchor"></a>
 
                     <a href="https://openknowledgemaps.org/community" target="_blank">
                         <img style="width:100%;" src="https://openknowledgemaps.org/img/newsletter/scavengerhuntevent.jpg">
                     </a> 
                     <div class="newsitem-text">
 
-                        <time datetime="2018-07-12">23 October 2018</time>
+                        <time datetime="2018-10-23">23 October 2018</time>
 
                         <h3 class="newsitem-headline">Successful run of first Enthusiasts program </h3>
 
