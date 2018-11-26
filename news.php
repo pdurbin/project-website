@@ -28,6 +28,88 @@
             <div class="newscollection">
 
                 <article class="newsitem">
+                    <a name="oaweek-2018" class="anchor"></a>
+
+                    <a href="https://openknowledgemaps.org/community#training-materials" target="_blank">
+                        <img style="width:100%;" src="https://openknowledgemaps.org/img/newsletter/community-oaweek.jpg">
+                    </a> 
+                    <div class="newsitem-text">
+
+                        <time datetime="2018-10-23">23 October 2018</time>
+
+                        <h3 class="newsitem-headline">This #OAWeek, enable your community to discover open access content</h3>
+
+
+                        <p class="newsitem-p">
+                            It's <a class="underline" target="_blank" href="https://openaccessweek.org">Open Access Week (#OAWeek)</a> again! What better way to celebrate than to enable your 
+                            community to discover all the great open access content out there. To help you with this, 
+                            we have created training materials for Open Knowledge Maps.
+                        </p>
+                        
+                        <p class="newsitem-p">
+                            This includes presentations with extensive speaker notes, making it easy to introduce Open Knowledge Maps in 
+                            English and Spanish. We have also put all materials for the Scientific Scavenger Hunt, our workshop concept, online. 
+                            A step-by-step guide explains, how to play this fun and fast-paced game with your community. 
+                        </p>
+
+                        <p class="newsitem-p">
+                            Have fun - and share your Scavenger Hunt moments via the hashtag <b>#okmaps</b> with us!
+                        </p>
+
+                        <a class="newsitem-button" href="https://openknowledgemaps.org/community#training-materials" target="_blank">
+                            Check out the materials</a>
+                    </div>
+                </article>
+            </div>
+
+            <div class="newscollection">
+
+                <article class="newsitem">
+                    <a name="successful-enthusiasts-program" class="anchor"></a>
+
+                    <a href="https://openknowledgemaps.org/community" target="_blank">
+                        <img style="width:100%;" src="https://openknowledgemaps.org/img/newsletter/scavengerhuntevent.jpg">
+                    </a> 
+                    <div class="newsitem-text">
+
+                        <time datetime="2018-10-23">23 October 2018</time>
+
+                        <h3 class="newsitem-headline">Successful run of first Enthusiasts program </h3>
+
+
+                        <p class="newsitem-p">
+                            It's a wrap! We have now concluded the first iteration of our community outreach program, <a class="underline" target="_blank" href="https://openknowledgemaps.org/community">the Enthusiasts program</a>
+                            - and we couldn't be happier with the results.
+                        </p>
+
+
+                        <p class="newsitem-p">
+                            Together, the enthusiasts have reached more than 100 people in 6 cities on 4 continents. 
+                            Not only have they helped to spread the word on open discovery and OKMaps, but they have 
+                            also collected valuable feedback, which will inform the development of our next features. 
+                            Many thanks to our awesome enthusiasts and to all workshop participants! 
+                            And special kudos to Mari and Ricardo for the <a href="https://drive.google.com/drive/folders/1TuqJuiYC1LRAAd0iParqgmohWglWOjUu" class="underline" target="_blank">translation of our presentation materials into Spanish</a>.
+                        </p>
+
+                        <p class="newsitem-p">
+                            In the next iteration of the program we want to explore with you, how we can better integrate OKMaps into your workflow. Join us!
+                        </p>
+
+                        <a class="newsitem-button" href="https://openknowledgemaps.org/community#enthusiasts-program" target="_blank">
+                            Become an enthusiast</a>
+                    </div>
+                </article>
+            </div>
+
+            <?php
+            $TIMELINE_ID = "842456314890584064";
+            $FEEBDACK_TITLE = "Twitter Stream";
+            include($COMPONENTS_PATH . 'twitterstream.php');
+            ?>
+
+            <div class="newscollection">
+
+                <article class="newsitem">
                     <a name="viper-launch" class="anchor"></a>
 
                     <a href="https://openknowledgemaps.org/" target="_blank">
@@ -71,12 +153,8 @@
                 </article>
             </div>
 
-            <?php
-            $TIMELINE_ID = "842456314890584064";
-            $FEEBDACK_TITLE = "Twitter Stream";
-            include($COMPONENTS_PATH . 'twitterstream.php');
-            ?>
-            
+
+
             <div class="newscollection">
 
                 <article class="newsitem">
@@ -94,7 +172,7 @@
                         <p class="newsitem-p">
                             The Open Knowledge Maps network is expanding - we now have 16 collaboration partners!
                         </p>
-                       
+
 
                         <p class="newsitem-p">
                             Our latest partnerships include <a class="underline" href="https://wikimedia.de/" target="_blank">Wikimedia Germany</a> and their outstanding <a class="underline" href="https://en.wikiversity.org/wiki/Wikimedia_Deutschland/Open_Science_Fellows_Program" target="_blank">Open Science Fellows Program</a> as well as the awesome <a class="underline" href="https://opensciencemooc.eu/" target="_blank">Open Science MOOC</a>. 
@@ -105,7 +183,7 @@
                             We have also partnered with longtime supporters <a class="underline" href="https://impactstory.org/" target="_blank">ImpactStory</a> on their exciting new search engine <a class="underline" href="http://gettheresearch.org/" target="_blank">Get The Research</a>, aimed at enabling everyone in society to benefit from scientific knowledge. In addition, we have joined JROST, the <a class="underline" href="http://jrost.org/" target="_blank">Joint Roadmap for Open Science Tools</a> to design an open science toolchain for researchers. 
                             With both initiatives we’re working on better and better integrated tools for open discovery and open science in general.
                         </p>
-                       
+
                         <a class="newsitem-button" href="https://openknowledgemaps.org/team#partners" target="_blank">
                             Check out our network</a>
                     </div>
@@ -141,7 +219,7 @@
                 <article class="newsitem">
                     <a name="welcome-enthusiasts" class="anchor"></a>
 
-                    <img style="width:100%;" src="https://openknowledgemaps.org/img/newsletter/ep-announcement.png">
+                    <img style="width:100%;" src="https://openknowledgemaps.org/img/newsletter/eps.jpg">
                     <div class="newsitem-text">
                         <time datetime="2018-04-17">17 April 2018</time>
                         <h3 class="newsitem-headline">A warm welcome to our enthusiasts</h3>
